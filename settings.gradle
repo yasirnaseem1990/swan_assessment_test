@@ -1,0 +1,2 @@
+include ':app', ':RangeSeekBar'
+rootProject.name = "Swan Assessment Testn"
